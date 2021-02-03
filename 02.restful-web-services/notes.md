@@ -1,5 +1,5 @@
 
-# RESTful Web Services
+# REST Web Services
 
 ## Social Media Application Resource Mappings
 
